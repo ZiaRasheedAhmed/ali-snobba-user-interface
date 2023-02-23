@@ -1,0 +1,15 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    
+}
+.header{
+    background-color: #153535;
+}
+.mainContainer{
+    padding: 50px;
+}
+.startover{
+    border:none;
+    background-color: white;
+}
